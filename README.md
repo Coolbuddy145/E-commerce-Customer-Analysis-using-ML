@@ -1,7 +1,7 @@
 # E-commerce Customer Analysis
 
 A linear regression project that analyzes customer behavior and predicts yearly spending amounts for an e-commerce company.
-a
+
 ## 📊 Project Overview
 
 This project builds and evaluates machine learning models to predict customer yearly spending based on their behavioral patterns. The analysis includes exploratory data analysis, feature correlation studies, and comparison of multiple regression models.
