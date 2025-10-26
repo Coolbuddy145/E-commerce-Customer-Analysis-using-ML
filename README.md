@@ -47,4 +47,4 @@ All models performed exceptionally well with:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ecommerce-customer-analysis.git
+git clone https://github.com/Coolbuddy145/E-commerce-Customer-Analysis-using-ML/tree/main
