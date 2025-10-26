@@ -1,5 +1,5 @@
 # E-commerce Customer Analysis
-a
+
 A linear regression project that analyzes customer behavior and predicts yearly spending amounts for an e-commerce company.
 
 ## 📊 Project Overview
