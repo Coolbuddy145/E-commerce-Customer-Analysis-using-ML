@@ -7,7 +7,7 @@ A linear regression project that analyzes customer behavior and predicts yearly 
 This project builds and evaluates machine learning models to predict customer yearly spending based on their behavioral patterns. The analysis includes exploratory data analysis, feature correlation studies, and comparison of multiple regression models.
 
 ## 🎯 Objectives
-a
+
 - Analyze relationships between customer behavior features and yearly spending
 - Build predictive models using Linear Regression, Ridge, and Lasso
 - Evaluate model performance and identify key drivers of customer spending
